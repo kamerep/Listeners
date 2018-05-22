@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Listeners</string>
+    <string-array name="countries">
+        <item>Kenya</item>
+        <item>Egypt</item>
+        <item>Nigeria</item>
+        <item>South Africa</item>
+        <item>Morocco</item>
+        <item>Senegal</item>
+
+    </string-array>
+
+
+</resources>
